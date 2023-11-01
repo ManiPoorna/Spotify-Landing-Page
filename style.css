@@ -203,7 +203,7 @@ main .bottom-artist .artist:hover{
     main{
         position: relative;
         left: 0;
-        margin-left: 0;
+        margin-left: 0px;
     }
     main .top{
         display: none;
